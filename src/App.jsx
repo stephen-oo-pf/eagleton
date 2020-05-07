@@ -1,7 +1,8 @@
-// AppModel.jsx
+// App.jsx
 import React, { Component } from 'react';
-import Modal from './components/dialogs/Modal';
-import VideoReact from './components/VideoReact';
+
+import Modal from './components/dialogs/Modal'; // container
+import VideoReact from './components/VideoReact';   // component
 import './App.css';
 
 class App extends Component {
