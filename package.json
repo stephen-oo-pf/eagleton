@@ -1,6 +1,6 @@
 {
   "name": "eagleton",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -10,7 +10,8 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "redux": "^4.0.5",
-    "video-react": "^0.14.1"
+    "video-react": "^0.14.1",
+    "websocket": "^1.0.31"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,7 +1,7 @@
 // File: VideoReact.jsx
 import React from 'react';
 import { Player } from 'video-react';
-import "./video-react.css";
+import "../components/video-react.css";
 
 export default props => {
   return (
