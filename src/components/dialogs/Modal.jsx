@@ -1,4 +1,6 @@
 // File: Modal.jsx
+// Date: 6/23/2020
+
 import React from 'react';
 import PropTypes from 'prop-types';
 
